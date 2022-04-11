@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: coral;
+  color: white;
+}
+#editor,
+.preview {
+  min-height: 300px;
+}
+.preview {
+  padding: 20px;
+  text-align: left;
+  color: black;
+  background-color: white;
+  img {
+    max-width: 100%;
+  }
+}
