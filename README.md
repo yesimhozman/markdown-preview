@@ -1,5 +1,4 @@
 # Build a Markdown Previewer
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/yesimnurakar/pen/abEKrNW](https://codepen.io/yesimnurakar/pen/abEKrNW).
+ [To see the preview click here](https://codepen.io/yesimnurakar/pen/abEKrNW).
 
 
